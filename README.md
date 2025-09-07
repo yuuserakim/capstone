@@ -1,2 +1,1 @@
-# capstone
-capstone project for undergraduate study
+#capstone
